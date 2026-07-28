@@ -6,7 +6,7 @@ import Destinations from "./components/Destinations/Destinations";
 import VisitedPlaces from "./components/VisitedPlaces/VisitedPlaces";
 import PlanTrip from "./components/PlanTrip/PlanTrip";
 import Footer from "./components/Footer/Footer";
-
+// app
 import Kerala from "./Pages/Kerala/Kerala";
 import Tn from "./Pages/TN/Tn";
 import Goa from "./Pages/Goa/Goa";
