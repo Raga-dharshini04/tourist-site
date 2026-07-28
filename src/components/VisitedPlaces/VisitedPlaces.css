@@ -1,0 +1,27 @@
+.visited{
+    width: 90%;
+    margin: 100px auto;
+}
+
+.visited-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.visited-title h2{
+    font-size: 2.8rem;
+    color: var(--text);
+    margin-bottom: 10px;
+}
+
+.visited-title p{
+    color: #666;
+    font-size: 18px;
+}
+
+.flow-menu{
+    height: 500px;
+    border: 2px solid var(--primary);
+    border-radius: 20px;
+    overflow: hidden;
+}

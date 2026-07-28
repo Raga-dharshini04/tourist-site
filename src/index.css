@@ -1,0 +1,27 @@
+:root {
+  --primary: #1B5667;
+  --secondary: #E8660B;
+  --accent: #FF8B24;
+  --dark: #6B124A;
+  --danger: #A50021;
+  --background: #F8F4EC;
+  --white: #FFFFFF;
+  --text: #2F2F2F;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: "Poppins", sans-serif;
+}

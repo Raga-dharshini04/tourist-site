@@ -1,0 +1,59 @@
+.navbar {
+    width: 90%;
+    margin: 25px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 25px;
+    border: 2px solid #333;
+    border-radius: 12px;
+    background-color: var(--background);
+}
+
+.logo{
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary);
+    cursor: pointer;
+}
+
+.logo a {
+    text-decoration: none;
+}
+
+.menues{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    margin: 0;
+    padding: 0;
+}
+
+.menues li a{
+    text-decoration: none;
+    color:var(--text);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.menues li a:hover {
+    color: var(--secondary);
+}
+
+.trip-button {
+    background-color: var(--primary);
+    color: var(--white);
+    border: none;
+    outline: none;
+    padding: 12px 22px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.trip-button:hover {
+    background-color: var(--secondary);
+}
