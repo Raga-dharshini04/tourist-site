@@ -14,7 +14,7 @@ import carRental from "../../assets/images/car-rental.jpg";
 
 import crois from '../../assets/images/crois.jpg';
 import crepes from '../../assets/images/crepes.jpg';
-import sea from '../../assets/images/seaFood.jpg';
+import sea from '../../assets/images/seafood.jpg';
 import south from '../../assets/images/southin.jpg';
 
 
