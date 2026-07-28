@@ -7,7 +7,7 @@ import VisitedPlaces from "./components/VisitedPlaces/VisitedPlaces";
 import PlanTrip from "./components/PlanTrip/PlanTrip";
 import Footer from "./components/Footer/Footer";
 
-import Kerala from "./pages/Kerala/Kerala";
+import Kerala from "./Pages/Kerala/Kerala";
 import Tn from "./Pages/TN/Tn";
 import Goa from "./Pages/Goa/Goa";
 import Pondi from "./Pages/Pondi/Pondi";
